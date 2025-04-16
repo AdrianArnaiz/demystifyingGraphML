@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore PDF figures in figs folder, recursively
+figs/**/*.pdf
+figs/**/*.png
+figs/**/*.jpg
