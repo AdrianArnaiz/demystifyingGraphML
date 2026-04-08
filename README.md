@@ -30,11 +30,11 @@ We argue that rapid progress in message-passing GNN research has produced **conf
 
 ```bibtex
 @inproceedings{arnaiz2026graphchallenges,
-  title   = {Oversmoothing, "Oversquashing", Heterophily, Long-Range, and more: Demystifying Common Beliefs in Graph Machine Learning},
-  author  = {Arnaiz-Rodríguez, A. and Errica, Federico},
-  booktitle = {International Conference on Learning Representations (ICLR)},
-  year    = {2026},
-  url     = {https://openreview.net/forum?id=Q3MisVkuTu},
+title={Oversmoothing, ''Oversquashing'', Heterophily, Long-Range, and more: Demystifying Common Beliefs in Graph Machine Learning},
+author={Adrian Arnaiz-Rodriguez and Federico Errica},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=Q3MisVkuTu}
 }
 ```
 
